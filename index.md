@@ -17,9 +17,9 @@ I work on developing computer vision algorithms for swarms of drones. In militar
 
 ## News
 
-- **[Jan. 2023]** Met some amazing people at [Research Week with Google, 2023](https://sites.google.com/view/researchweek2023/home). Grateful to Google. 
-- **[Aug. 2022]** Happy to share that our [paper](https://openaccess.thecvf.com/content/WACV2023/papers/Sairam_ARUBA_An_Architecture-Agnostic_Balanced_Loss_for_Aerial_Object_Detection_WACV_2023_paper.pdf) on tackling the severe size imbalance in aerial object datasets got accepted in WACV 2023
-- **[Nov. 2020]** Honoured to be awarded with a gold medal for academic excellence in Computer Science at IIIT, Tiruchirappalli 
+- **[Jan. 2023]** Met some amazing people at [**Research Week with Google, 2023**](https://sites.google.com/view/researchweek2023/home). Grateful to Google. 
+- **[Aug. 2022]** Happy to share that our [paper](https://openaccess.thecvf.com/content/WACV2023/papers/Sairam_ARUBA_An_Architecture-Agnostic_Balanced_Loss_for_Aerial_Object_Detection_WACV_2023_paper.pdf) on tackling the severe size imbalance in aerial object datasets got accepted in **WACV 2023**
+- **[Nov. 2020]** Honoured to be awarded with a **gold medal for academic excellence** in Computer Science at IIIT, Tiruchirappalli 
 
 {% include_relative _includes/publications.md %}
 
