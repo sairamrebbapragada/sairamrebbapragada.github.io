@@ -18,7 +18,7 @@
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Sairam_ARUBA_An_Architecture-Agnostic_Balanced_Loss_for_Aerial_Object_Detection_WACV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
  <a href="https://github.com/sairamrebbapragada/sairamrebbapragada.github.io/blob/main/assets/img/236-wacv-post.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:gnHu-Fs5yh4J:scholar.google.com/&output=citation&scisdr=CpsZYXqTEMOH27ppjmU:AJ9-iYsAAAAAZCFvlmVHbuvg1WX-H_Ot_cyWmPw&scisig=AJ9-iYsAAAAAZCFvltFLA6W49QCyTGR7vXu8RqI&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://arxiv.org/abs/2210.04574" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
