@@ -29,3 +29,7 @@ I enjoy playing volleyball, table tennis, and carroms in my free time. Cooking i
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Research venues attended: 
+- **[Jan. 2023]** Google Research week 2023
+- **[Dec. 2022]** Asian Conference on Machine Learning (ACML) 2022
