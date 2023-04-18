@@ -8,7 +8,7 @@ I am a Ph.D. student in the department of Artificial Intelligence at IIT Hyderab
 
 ## Research Interests
 
-- **Computer Vision:** Object detection, segmentation, tracking, Deep Learning
+- **Computer Vision:** Object detection, Segmentation, Tracking, Deep Learning
 
 ## Brief objectives of my Research work in PhD:
 
