@@ -4,9 +4,8 @@
 <h4 style="margin:0 10px 0;">Conference Sub-Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://ijcai-23.org/"><autocolor>International Joint Conference on Artificial Intelligence 2023</autocolor></a></li>
-  
   <li><a href="https://iccv2023.thecvf.com/"><autocolor>International Conference on Computer Vision 2023</autocolor></a></li>
+  <li><a href="https://ijcai-23.org/"><autocolor>International Joint Conference on Artificial Intelligence 2023</autocolor></a></li>
 </ul>
 </div>
 
