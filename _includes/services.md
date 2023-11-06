@@ -1,17 +1,18 @@
 <h2 id="services" style="margin: 2px 0px -15px;">Services</h2>
 
-<div class="publications">
+<div class="services">
 <h4 style="margin:0 10px 0;">Conference Sub-Reviewer</h4>
 
-<ul style="margin:0 0 5px;">
+<a href="https://2024.ieee-icra.org/"><autocolor>ICRA 2024</autocolor></a>, <a href="https://wacv2024.thecvf.com/"><autocolor>WACV 2024</autocolor></a>, <a href="https://nips.cc/"><autocolor>Neurips 2023</autocolor></a>, <a href="https://iccv2023.thecvf.com/"><autocolor>ICCV 2023</autocolor></a>, <a href="https://ijcai-23.org/"><autocolor>IJCAI 2023</autocolor></a>
+
+<!-- <ul style="margin:0 0 5px;">
   <li><a href="https://2024.ieee-icra.org/"><autocolor>ICRA 2024</autocolor></a></li>
   <li><a href="https://wacv2024.thecvf.com/"><autocolor>WACV 2024</autocolor></a></li>
   <li><a href="https://nips.cc/"><autocolor>Neurips 2023</autocolor></a></li>
   <li><a href="https://iccv2023.thecvf.com/"><autocolor>ICCV 2023</autocolor></a></li>
-  <li><a href="https://ijcai-23.org/"><autocolor>IJCAI 2023</autocolor></a></li>
-  
-                                                                             
-</ul>
+  <li><a href="https://ijcai-23.org/"><autocolor>IJCAI 2023</autocolor></a></li>                                                                            
+</ul> -->
+
 </div> 
 
 
