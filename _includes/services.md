@@ -3,7 +3,7 @@
 <div class="publications">
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
   
-<a href="https://www.sciencedirect.com/journal/pattern-recognition/"><autocolor>Pattern Recognition Article 2024</autocolor></a>
+<a href="https://www.sciencedirect.com/journal/pattern-recognition/"><autocolor>Pattern Recognition 2024</autocolor></a>
 </div> 
 
 
