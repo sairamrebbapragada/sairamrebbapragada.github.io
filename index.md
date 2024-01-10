@@ -8,7 +8,7 @@ I am a Ph.D. student in the department of Artificial Intelligence at IIT Hyderab
 
 ## Research Interests
 
-- **Computer Vision:** Object detection, Segmentation, Tracking, Deep Learning
+- Computer Vision, Deep Learning, Tiny Object detection, Aerial Object Detection
 
 ## Brief objectives of my Research work in PhD:
 
@@ -21,7 +21,7 @@ In the pursuit of my Ph.D., I am dedicated to methodically tackling these multif
 <!-- I work on developing computer vision algorithms for swarms of drones. In military warfare, they can be used as target decoys for combat missions. In agriculture, drones provide farmers with real-time data to make informed harvesting decisions. For search-and-rescue, they can reach places where humans cannot. Alternatively, they are also used in fire-fighting, delivery of essentials and aerial photography. This increasing demand for drones in various domains has recently encouraged the computer vision community to work extensively on vision from drones. Compared to general object detection, aerial object detection (especially, object detection on images captured from drones) has additional challenges, some of which are high occlusion, arbitrary orientation, high variation in scale and small sized crowded objects. The above problems can be resolved by using multiple drones, which improves object detection performance and robustness against occlusion and visual ambiguity. I am working to solve the challenges one after another, which is necessary for designing an efficient multi-drone system.  -->
 
 ## Hobbies: 
-I enjoy playing volleyball, table tennis, and carroms in my free time. Cooking is also one of my favorite pastimes. Additionally, I have a talent for whistling songs and playing the cajon.
+I enjoy playing badminton, volleyball, table tennis, and carroms in my free time. Cooking is also one of my favorite pastimes. Additionally, I have a talent for whistling songs and playing the cajon.
 
 ## News
 - **[Mar. 2023]** Our work titled 'Do Models see Corruption as we see? An Item Response Theory based study in Computer Vision' is accepted in [PML4DC](https://pml4dc.github.io/iclr2023/) at ICLR 2023. 
