@@ -24,6 +24,7 @@ In the pursuit of my Ph.D., I am dedicated to methodically tackling these multif
 I enjoy playing badminton, volleyball, table tennis, and carroms in my free time. Cooking is also one of my favorite pastimes. Additionally, I have a talent for whistling songs and playing the cajon.
 
 ## News
+- **[Mar. 2024]** Honored with the Research Excellence Award at IIT Hyderabad's 16th Foundation Day. My heartfelt gratitude to [Dr. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/) for his invaluable guidance.
 - **[Feb. 2024]** Participating in Google Research Week 2024
 - **[Jan. 2024]** Happy to share that our paper on Drone-to-Drone Detection using Vision Transformer Networks is accepted for presentation at ICRA 2024. 
 - **[Mar. 2023]** Our work titled 'Do Models see Corruption as we see? An Item Response Theory based study in Computer Vision' is accepted in [PML4DC](https://pml4dc.github.io/iclr2023/) at ICLR 2023. 
