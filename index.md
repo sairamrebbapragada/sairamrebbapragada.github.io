@@ -43,5 +43,7 @@ I enjoy playing badminton, volleyball, table tennis, and carroms in my free time
 {% include_relative _includes/services.md %}
 
 ## Research venues attended: 
+- **[May. 2024]** IEEE International Conference on Robotics and Automation (ICRA) 2024
+- **[Feb. 2024]** Google Research week 2024
 - **[Jan. 2023]** Google Research week 2023
 - **[Dec. 2022]** Asian Conference on Machine Learning (ACML) 2022
