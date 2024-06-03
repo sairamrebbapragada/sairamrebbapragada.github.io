@@ -7,7 +7,7 @@
      <!--     Publication 1   -->
       <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-        <img src="assets/img/ARUBA_Architecture.png" class="teaser img-fluid z-depth-1">
+        <img src="assets/img/ICRA_24_figure_2.jpg" class="teaser img-fluid z-depth-1">
         <abbr class="badge">ICRA 2024</abbr>
       </div>
     
