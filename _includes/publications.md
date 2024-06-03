@@ -18,6 +18,7 @@
         <div class="periodical"><em>IEEE International Conference on Robotics and Automation<strong>(ICRA 2024)</strong></em></div>
         <div class="links">
           <a href="https://arxiv.org/pdf/2404.19276" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://github.com/sairamrebbapragada/sairamrebbapragada.github.io/blob/main/assets/img/ICRA24_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
         </div> 
       </div> 
     </div>
