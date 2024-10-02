@@ -47,6 +47,8 @@ with focus on Computer Vision & Machine Learning
 {% include_relative _includes/services.md %}
 
 ## Research venues attended: 
+- **[Sep. 2024]** Young Researchers’ Forum on Data and AI for Public Good, a spotlight event in the Symposium on Data for Public Good at IISc Bangalore
+- **[July. 2024]** IIIT Hyderabad's Summer School on AI with a focus on Computer Vision & Machine Learning
 - **[May. 2024]** IEEE International Conference on Robotics and Automation (ICRA) 2024
 - **[Feb. 2024]** Google Research week 2024
 - **[Jan. 2023]** Google Research week 2023
