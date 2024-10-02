@@ -28,6 +28,10 @@ In the pursuit of my Ph.D., I am dedicated to methodically tackling these multif
 I enjoy playing badminton, volleyball, table tennis, and carroms in my free time. Cooking is also one of my favorite pastimes. Additionally, I have a talent for whistling songs and playing the cajon.
 
 ## News
+- **[Sep. 2024]** Thrilled to be selected for a poster presentation at IndoML 2024 at BITS Pilani Goa
+- **[Sep. 2024]** Presented a lightning talk and a poster at the Young Researchers' Forum on Data and AI for Public Good at IISc Bangalore. 
+- **[July. 2024]** Volunteered for code-walthrough in the hands-on session at IIIT Hyderabad's 8th Summer School on AI
+with focus on Computer Vision & Machine Learning
 - **[May. 2024]** Delivered an oral presentation at ICRA 2024. Find our paper [here](https://arxiv.org/pdf/2404.19276)
 - **[Mar. 2024]** Honored with the Research Excellence Award at IIT Hyderabad's 16th Foundation Day. My heartfelt gratitude to [Dr. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/) for his invaluable guidance.
 - **[Feb. 2024]** Participating in Google Research Week 2024
