@@ -8,7 +8,7 @@ I am a Ph.D. student in the department of Artificial Intelligence at IIT Hyderab
 
 ## Research Interests
 
-- Computer Vision, Deep Learning, Tiny Object detection, Aerial/Oriented Object Detection, Domain Adaptation, Domain Generalisation, Partial Label learning.
+- Computer Vision, Deep Learning, Tiny Object detection, Aerial/Oriented Object Detection, Domain Adaptation, Domain Generalisation, Partial Label Learning.
 
 ## Brief objectives of my Research work in PhD:
 
