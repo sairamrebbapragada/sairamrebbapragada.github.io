@@ -8,13 +8,15 @@ I am a Ph.D. student in the department of Artificial Intelligence at IIT Hyderab
 
 ## Research Interests
 
-- Computer Vision, Deep Learning, Tiny Object detection, Aerial/Oriented Object Detection.
+- Computer Vision, Deep Learning, Tiny Object detection, Aerial/Oriented Object Detection, Domain Adaptation, Domain Generalisation, Partial Label learning.
 
 ## Brief objectives of my Research work in PhD:
 
-Aerial vision has diverse applications in agriculture, environmental monitoring, construction, UAVs, military, and search-and-rescue operations. The increasing demand has sparked research in developing computer vision algorithms for aerial perspectives, particularly aerial object detection. Aerial vision presents a complex array of challenges, including severe size imbalances, detection of minuscule objects, managing motion and instability, constraints posed by limited computational resources, real-time processing requirements, dealing with occlusions and perspective distortions, handling inaccuracies in data annotation, ensuring generalization across diverse environmental conditions, and addressing pivotal privacy and ethical considerations. 
+Aerial vision spans a wide spectrum of critical applications — ranging from agriculture and environmental monitoring to construction, military operations, and search-and-rescue — driving the need for advanced computer vision solutions tailored for aerial perspectives. While this field presents complex challenges such as severe object size imbalances, managing motion and instability, limited computational resources, real-time processing constraints, occlusions and perspective distortions, annotation inaccuracies, and domain shifts, it also offers exciting frontiers for innovation. 
 
-In the pursuit of my Ph.D., I am dedicated to methodically tackling these multifaceted challenges by developing and applying innovative and contemporary methodologies, including the Vision Transformers, Large Language Models (LLMs) and Vision Language Models (VLMs), to the field of aerial vision.
+I am working to push the boundaries of aerial vision with innovative and practical solutions to tackle these multi-faceted challenges. The aim is to advance computer vision through efficient, adaptable, and reliable methods that promote the adoption of vision systems in real-world applications.
+
+
 
 <!-- In recent years, drones have demonstrated significant potential across a variety of industries, spanning from agriculture, military operations, and search-and-rescue missions to firefighting, aerial photography, and essential deliveries. The growing demand for drones has ignited extensive research efforts focused on augmenting their vision capabilities, especially object detection.
 
