@@ -28,6 +28,8 @@ In the pursuit of my Ph.D., I am dedicated to methodically tackling these multif
 I enjoy playing badminton, volleyball, table tennis, and carroms in my free time. Cooking is also one of my favorite pastimes. Additionally, I have a talent for whistling songs and playing the cajon.
 
 ## News
+- **[Jan. 2025]** Excited to join Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, as a visiting student, where I will be working with [Dr. Muhammad Haris Khan](https://mbzuai.ac.ae/study/faculty/muhammad-haris-khan/). Looking forward to a productive and insightful collaboration!
+- **[Dec. 2024]** Selected for a poster presentation at ACM-PIC-2025 at Infosys, Mysore
 - **[Nov. 2024]** Presented a poster at Amazon Research Days 2024, Bangalore
 - **[Sep. 2024]** Thrilled to be selected for a poster presentation at IndoML 2024 at BITS Pilani Goa
 - **[Sep. 2024]** Presented a lightning talk and a poster at the Young Researchers' Forum on Data and AI for Public Good at IISc Bangalore. 
