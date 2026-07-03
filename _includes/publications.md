@@ -7,18 +7,18 @@
     <!--     Publication ECCV 2026 RT-SFOD   -->
       <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-        <img src="assets/img/ICRA_24_figure_2.jpg" class="teaser img-fluid z-depth-1">
-        <abbr class="badge">ICRA 2024</abbr>
+        <img src="assets/img/RT-SFOD.png" class="teaser img-fluid z-depth-1">
+        <abbr class="badge">ECCV 2026</abbr>
       </div>
     
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href="https://arxiv.org/abs/2404.19276">C2FDrone: Coarse-to-Fine Drone-to-Drone Detection using Vision Transformer Networks</a>             
+        <div class="title"><a href="https://arxiv.org/abs/2606.31834">Real-Time Source-Free Object Detection</a>             
         </div>
-        <div class="author"><strong>Rebbapragada V C Sairam</strong>, Pranoy Panda, Vineeth N Balasubramanian</div>
-        <div class="periodical"><em>IEEE International Conference on Robotics and Automation<strong>(ICRA 2024)</strong></em></div>
+        <div class="author"><strong>Sairam VCR</strong>, Varun Gopal, Poornima Jain, Vineeth N Balasubramanian, Muhammad Haris Khan</div>
+        <div class="periodical"><em>European Conference on Computer Vision.<strong>(ECCV 2026)</strong></em></div>
          <div class="links">
-          <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10609997" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-          <a href="https://github.com/sairamrebbapragada/sairamrebbapragada.github.io/blob/main/assets/img/ICRA24_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+          <a href="https://arxiv.org/pdf/2606.31834" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <!-- <a href="https://github.com/sairamrebbapragada/sairamrebbapragada.github.io/blob/main/assets/img/ICRA24_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a> -->
         </div> 
       </div> 
     </div>
