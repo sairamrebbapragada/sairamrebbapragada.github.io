@@ -38,7 +38,7 @@
         <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<strong>(CVPR 2026)</strong></em></div>
          <div class="links">
           <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/VCR_Foundation_Model_Priors_Enhance_Object_Focus_in_Feature_Space_for_CVPR_2026_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-             <a href="https://github.com/Sairam13001/RT-SFOD/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+             <a href="https://github.com/Sairam13001/FALCON-SFOD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
           <!-- <a href="https://github.com/sairamrebbapragada/sairamrebbapragada.github.io/blob/main/assets/img/ICRA24_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a> -->
         </div> 
       </div> 
@@ -47,18 +47,20 @@
     <!--     Publication CVPR 2026 iSHIFT   -->
 <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-        <img src="assets/img/ICRA_24_figure_2.jpg" class="teaser img-fluid z-depth-1">
+        <img src="assets/img/iSHIFT_main_diagram_v4.png" class="teaser img-fluid z-depth-1">
         <abbr class="badge">ICRA 2024</abbr>
       </div>
     
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href="https://arxiv.org/abs/2404.19276">C2FDrone: Coarse-to-Fine Drone-to-Drone Detection using Vision Transformer Networks</a>             
+        <div class="title"><a href="https://arxiv.org/abs/2512.22009">iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception</a>      
         </div>
-        <div class="author"><strong>Rebbapragada V C Sairam</strong>, Pranoy Panda, Vineeth N Balasubramanian</div>
-        <div class="periodical"><em>IEEE International Conference on Robotics and Automation<strong>(ICRA 2024)</strong></em></div>
+        <div class="author">Sarthak Mehrotra, <strong>Sairam VCR</strong>, Mani Hemanth Reddy Bonthu, Vineeth N Balasubramanian</div>
+        <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<strong>(CVPR 2026)</strong></em></div>
          <div class="links">
-          <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10609997" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-          <a href="https://github.com/sairamrebbapragada/sairamrebbapragada.github.io/blob/main/assets/img/ICRA24_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+          <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Mehrotra_iSHIFT_Lightweight_Slow-Fast_GUI_Agent_with_Adaptive_Perception_CVPR_2026_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://github.com/SarthakM320/iSHIFT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+             
+          <!-- <a href="https://github.com/sairamrebbapragada/sairamrebbapragada.github.io/blob/main/assets/img/ICRA24_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a> -->
         </div> 
       </div> 
     </div>
@@ -66,18 +68,18 @@
     <!--     Publication CVPR 2026 workshop Unlearning   -->
 <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-        <img src="assets/img/ICRA_24_figure_2.jpg" class="teaser img-fluid z-depth-1">
-        <abbr class="badge">ICRA 2024</abbr>
+        <img src="assets/img/teaser_v2.png" class="teaser img-fluid z-depth-1">
+        <abbr class="badge">CVPR 2026 AIMS</abbr>
       </div>
     
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href="https://arxiv.org/abs/2404.19276">C2FDrone: Coarse-to-Fine Drone-to-Drone Detection using Vision Transformer Networks</a>             
+        <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2026W/AIMS/papers/Jain_On_the_Role_of_Vision_and_Language_in_Harmful_Response_CVPRW_2026_paper.pdf">On the Role of Vision and Language in Harmful Response Generation: A Component-wise Unlearning Study in Multimodal LLMs</a>             
         </div>
-        <div class="author"><strong>Rebbapragada V C Sairam</strong>, Pranoy Panda, Vineeth N Balasubramanian</div>
-        <div class="periodical"><em>IEEE International Conference on Robotics and Automation<strong>(ICRA 2024)</strong></em></div>
+        <div class="author">Poornima Jain, <strong>Sairam VCR</strong>, Vineeth N Balasubramanian</div>
+        <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<strong>(CVPR 2026)</strong></em></div>
          <div class="links">
-          <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10609997" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-          <a href="https://github.com/sairamrebbapragada/sairamrebbapragada.github.io/blob/main/assets/img/ICRA24_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+          <a href="https://openaccess.thecvf.com/content/CVPR2026W/AIMS/papers/Jain_On_the_Role_of_Vision_and_Language_in_Harmful_Response_CVPRW_2026_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <!-- <a href="https://github.com/sairamrebbapragada/sairamrebbapragada.github.io/blob/main/assets/img/ICRA24_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a> -->
         </div> 
       </div> 
     </div>
