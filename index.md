@@ -34,6 +34,9 @@ In the pursuit of my Ph.D., I am dedicated to methodically tackling these multif
 I love nature, music and sports. I enjoy playing volleyball, table tennis, and carroms in my free time. Cooking is also one of my favorite pastimes. Additionally, I have a talent for whistling songs and playing the cajon.
 
 ## News
+- **[June. 2026]** Our paper on Real-Time Source-Free Object Detection is accepted at ECCV 2026. Looking forward to presenting it @Sweden.
+- **[June. 2026]** Excited to present 3 papers at CVPR'26 @ Denver 
+- **[Feb. 2026]** 3 papers accepted at CVPR 2026
 - **[Jan. 2025]** Excited to join Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, as a visiting student, where I will be working with [Dr. Muhammad Haris Khan](https://mbzuai.ac.ae/study/faculty/muhammad-haris-khan/). Looking forward to a productive and insightful collaboration!
 - **[Dec. 2024]** Selected for a poster presentation at ACM-PIC-2025 at Infosys, Mysore
 - **[Nov. 2024]** Presented a poster at Amazon Research Days 2024, Bangalore
