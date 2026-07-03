@@ -4,17 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the department of Artificial Intelligence at IIT Hyderabad. I am fortunate to be a part of the Machine Learning and Vision group supervised by [Dr. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/). 
+I am Sairam, a PhD candidate in Artificial Intelligence at IIT Hyderabad, India, where I am fortunate to be advised by [Dr. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/). 
 
 ## Research Interests
 
-- Computer Vision, Deep Learning, Tiny, Aerial and Oriented Object Detection, Vision-Language Models, Domain Adaptation, Domain Generalisation, Limited Supervision.
+- Computer Vision & Deep Learning: Robust and Efficient Visual Perception. Specific interests include Multimodal Large Language Models, Visual GUI Agents, Learning with Limited Labels, Domain Adaptation & Generalization, Aerial Vision (tiny \& oriented object detection), Machine Unlearning, and Mechanistic Interpretability.
+
 
 ## Brief objectives of my Research work in PhD:
 
-Aerial vision spans a wide spectrum of critical applications — ranging from agriculture and environmental monitoring to construction, military operations, and search-and-rescue — driving the need for advanced computer vision solutions tailored for aerial perspectives. While this field presents complex challenges such as severe object size imbalances, managing motion and instability, limited computational resources, real-time processing constraints, occlusions and perspective distortions, annotation inaccuracies, and domain shifts, it also offers exciting frontiers for innovation. 
+Broadly, I like building visual perception systems that do not just work in clean benchmark settings, but remain reliable when deployed in real-world conditions: tiny objects, long-tailed data, limited labels, domain shifts, and real-time constraints. My work spans aerial/drone perception, object detection under distribution shifts, source-free adaptation, and efficient deployment. More recently, I have also been exploring GUI agents, MLLM safety/unlearning, and mechanistic interpretability. Along the way, my work has found homes in communities I deeply value, including CVPR, ECCV, ICRA, and WACV.
 
-I am working to push the boundaries of aerial vision with innovative and practical solutions to tackle these multi-faceted challenges. The aim is to advance computer vision through efficient, adaptable, and reliable methods that promote the adoption of vision systems in real-world applications.
+
+<!-- Aerial vision spans a wide spectrum of critical applications — ranging from agriculture and environmental monitoring to construction, military operations, and search-and-rescue — driving the need for advanced computer vision solutions tailored for aerial perspectives. While this field presents complex challenges such as severe object size imbalances, managing motion and instability, limited computational resources, real-time processing constraints, occlusions and perspective distortions, annotation inaccuracies, and domain shifts, it also offers exciting frontiers for innovation. 
+
+I am working to push the boundaries of aerial vision with innovative and practical solutions to tackle these multi-faceted challenges. The aim is to advance computer vision through efficient, adaptable, and reliable methods that promote the adoption of vision systems in real-world applications. -->
 
 
 
