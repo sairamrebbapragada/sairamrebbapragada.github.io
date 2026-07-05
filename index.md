@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Sairam, a PhD candidate in Artificial Intelligence at IIT Hyderabad, India, where I am fortunate to be advised by [Dr. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/). 
+I am Sairam, a PhD candidate in Artificial Intelligence at IIT Hyderabad, India, where I am fortunate to be advised by [Dr. Vineeth N Balasubramanian](https://people.iith.ac.in/vineethnb/). I was also a visiting student at MBZUAI from Jan. 2025 to Mar. 2026, hosted by [Prof. Muhammad Haris Khan](https://m-haris-khan.com/). 
 
 ## Research Interests
 
