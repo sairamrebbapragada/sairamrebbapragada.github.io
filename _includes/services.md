@@ -11,7 +11,7 @@ NeurIPS 2026, CVPR 2026, ACM IKDD CODS 2025, ICVGIP 2025, IJCV 2025, IET Compute
 
 <h4 style="margin:2px 0 0;">Sub-Reviewer</h4>
 
-ECCV 2026, IEEE TIP 2024, ICRA 2024, WACV 2024, NeurIPS 2023, ICCV 2023, IJCAI 2023.
+WACV 2027, ECCV 2026, IEEE TIP 2024, ICRA 2024, WACV 2024, NeurIPS 2023, ICCV 2023, IJCAI 2023.
 
 <h4 style="margin:0 0 0;">Student Volunteer</h4>
 IIIT Hyderabad Summer School on AI 2024 (hands-on session), ACML 2022.
